@@ -1,2 +1,2 @@
-Ini adalah tugas kedua dari Mata Kuliah Pemrograman WEB
+Tugas Kedua Mata Kuliah Pemrograman WEB
 
